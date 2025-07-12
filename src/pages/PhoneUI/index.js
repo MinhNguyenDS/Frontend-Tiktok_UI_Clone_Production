@@ -13,7 +13,7 @@ const videoUrls = [
     username: 'SunMinh🤖',
     description: 'Em quay di ta “mat nhau” 🫢🫢 #spotify #xuhuong #foryou #wrongtimes #nhachaymoingay🎧🎶🎵',
     song: 'Wrong Times - Puppy & Dangrangto',
-    likes: 862,
+    likes: 904,
     comments: 73,
     saves: 25,
     shares: 3,
@@ -128,6 +128,17 @@ const videoUrls = [
     saves: 1,
     shares: 1,
   },
+  {
+    url: require('../../videos/video12.mp4'),
+    profilePic: assetImages.avartar,
+    username: 'SunMinh🤖',
+    description: 'Còn không?! | #xuhuong #phepmau #cover',
+    song: 'Phép Màu (Đàn Cá Gỗ OST) - Mounter x MAYDAYs, Minh Tốc',
+    likes: 348,
+    comments: 10,
+    saves: 0,
+    shares: 0,
+  }
 ];
 
 

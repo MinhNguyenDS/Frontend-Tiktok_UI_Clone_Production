@@ -4,7 +4,7 @@ const assetImages = {
     error2: require('~/assets/images/404_2.png'),
     avartar: require('~/assets/images/avatar.jpg'),
     thumb_avatar: require('~/assets/images/thumb_img.jpg'),
-    thumb_avatar_2: require('~/assets/images/thumb_img_2.jpg'),
+    thumb_avatar_2: require('~/assets/images/thumb_img_2.jpeg'),
     noImage: require('~/assets/images/no-image.png'),
     facebook: require('~/assets/images/facebook.svg').default,
     google: require('~/assets/images/google.svg').default,
